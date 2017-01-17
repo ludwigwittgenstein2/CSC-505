@@ -1,0 +1,20 @@
+SRS comments goes here
+
+Positiove feedback :
+
+A) The definitions and abbriviation were seperated which looks alot cleaner 
+
+B) Tables for the use cases are a very well way to define each usecase and makes it clear and easy to read 
+
+C)
+
+Negative feedback:
+
+A) The figure numbers should start with the section they are in and then add one more level for the figure number itself in that 
+section that it is describing.  
+
+B) Make each use case its own section so it can easily be found in the index and then label each table for that section 
+
+C) How about a system fail or other attribute constraint ? How can that be dealth with ? An example possibly ? 
+
+D) Page numbers ? Along with page numbers corresponding with the table of contents ? 

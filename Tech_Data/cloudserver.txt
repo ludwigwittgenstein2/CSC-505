@@ -1,0 +1,8 @@
+1 Xeon vCPU
+1 Public IP
+512mb RAM
+10gb disk
+100mbit network
+500gb monthly transfer
+
+running Debian 7.3 amd64
